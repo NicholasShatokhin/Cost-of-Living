@@ -1,0 +1,12 @@
+Hello.
+
+Welcome to the first repository of science fiction book.
+
+In this directory you can see folders bin and src. 
+In src - folders with names of languages. In its you can find files that named chapterXX.utf8 where XX is number of chapter. You can write next chapter, translate exist chapters or branch repository and write your own book.
+In bin - folder with names of formats. You can convert files from src to the final book's format.
+
+If you write in your branch you can do everything. If you write in master branch you must consult with maintainer (n.shatokhin@gmail.com) about storyline.
+
+Good luck!
+
